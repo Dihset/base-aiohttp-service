@@ -1,2 +1,3 @@
 # base-aiohttp-service
-Base template RESTful API service for the aiohttp framework.
+
+The basic template for a RESTful API service based on the aiohttp framework.
